@@ -15,7 +15,7 @@ let age = 17; //set age to 17
 let isAdult = age >= 18;
 
 //change the following line (if necessary) so "something" is undefined
-let something = undefined;
+let something;
 
 //change the following line (if necessary) so "nothing" is null
 //note the type!
